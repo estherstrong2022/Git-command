@@ -3,5 +3,7 @@ git branch -a
 git checkout (another branch)
 git branch -a
 git branch --delete old branch
+or
+git branch -d old-branch
 
 The result still keeps a branch even though the old one is deleted
