@@ -1,0 +1,7 @@
+Cannot be present on a branch and delet it. You have to come out first by checkout. 
+git branch -a
+git checkout (another branch)
+git branch -a
+git branch --delete old branch
+
+The result still keeps a branch even though the old one is deleted
